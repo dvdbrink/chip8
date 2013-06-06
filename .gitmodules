@@ -1,0 +1,3 @@
+[submodule "external/gdl"]
+	path = external/gdl
+	url = git://github.com/dvdbrink/gdl.git

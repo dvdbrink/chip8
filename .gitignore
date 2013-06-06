@@ -1,0 +1,24 @@
+# Linux
+*~
+
+# Scons
+build
+.sconsign.dblite
+.sconf_temp/
+config.log
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse
+*.cproject
+*.project
+*.settings
+
+# Qt Creator
+*.config
+*.creator
+*.creator.user
+*.files
+*.includes
